@@ -1,0 +1,8 @@
+__pycache__
+*.csv
+*.xls*
+*.data
+*.pdf
+*.rtf*
+housepy
+output
